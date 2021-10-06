@@ -7,7 +7,7 @@
     <title>Ejemplo PHP</title>
 </head>
 <body>
-    <h1>Ejemplo PHP</h1>
+    <h1>Ejemplo PHP utilizando GIT</h1>
     <form action="store.php" method="POST">
         <label for="tarea">Nombre de Tarea</label><br>
         <input type="text" name="tarea">
