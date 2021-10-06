@@ -60,7 +60,7 @@
             echo "<li>$key: $val</li>";
         }*/
         
-        include("conexcion.php");
+        include("conexion.php");
 
         $sql = "SELECT * FROM tareas";
         $stmt = $conn->prepare($sql);
